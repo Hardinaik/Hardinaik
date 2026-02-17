@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi, I'm Hardi Naik 👋  <br><br>🎓 Final Year B.Tech (Honours) in ICT @ Dhirubhai Ambani University  <br>💻 Java & Python Developer  <br>🤖 Machine Learning & AI Enthusiast
+Hi, I'm Hardi Naik 👋  <br><br>🎓 Final Year B.Tech (Honours) in ICT with minor in Computational Science @ Dhirubhai Ambani University  <br>💻 Java,Python,DSA,OOPS,DBMS <br>🤖 Machine Learning & AI Enthusiast
 
 
 ## 🌐 Socials:
